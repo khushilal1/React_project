@@ -1,0 +1,29 @@
+.img{
+    border: 3px solid green;
+    width: 70px;
+    border-radius: 50px;
+    box-shadow:5px 5px 5px rgb(231, 168, 106) ;
+}
+
+
+.header{
+    margin: 2% 3% 3% 3%;
+    background-color: rgb(235, 235, 38);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(53, 120, 12);
+}
+
+.header span {
+font-size: 30px;
+font-family: cursive;
+fill-opacity: inherit;
+text-align: center;
+margin-left: 10px;
+font-weight: bold;
+font-family:monospace;
+}
+
+.para{
+    font-family: 'Times New Roman', Times, serif;
+    font-family: cursive;
+}

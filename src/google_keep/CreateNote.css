@@ -1,0 +1,51 @@
+.input_area {
+  text-align: center;
+  margin: 5% 20% 5% 30%;
+  box-shadow: 4px 4px 5px rgb(210, 146, 146);
+  border-radius: 10px;
+  max-width: fit-content;
+}
+
+#text_area {
+  max-width: max-content;
+  border: none;
+}
+#text_area1 {
+  max-height: 50px;
+  max-width: max-content;
+  border: none;
+}
+
+
+#btn{
+    border-radius: 20px;
+    background-color: rgb(222, 219, 216);
+    position: relative;
+    border: none;
+    margin-top: 10px;
+
+   
+}
+
+
+#btn:hover{
+
+    background-color: rgb(223, 127, 30);
+  font-size: large;
+
+   
+}
+
+
+.btn{
+  border-radius: 30px;
+  background-color: rgb(222, 219, 216);
+border: none;
+text-align: left;
+}
+
+.btn:hover{
+  background-color: rgb(207, 60, 60);
+  font-size: 30px;
+  border-radius: 30px;
+}
